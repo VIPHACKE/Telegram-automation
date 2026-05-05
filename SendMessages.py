@@ -17,8 +17,8 @@ import time
 
 # --- Telegram API Credentials ---
 api_id = 24509726
-api_hash = 'a09cb4db3861dcbba941ba96620737d5'
-phone = '+916378941259'
+api_hash = 'abcdefghijklmnopqrstuvwxyz123456'  # Replace with your API hash
+phone = '+12345678900'  # Replace with your phone number (with country code)
 
 # --- Sleep Timings ---
 SLEEP_TIME_2 = 0.5   # Flood error cooldown

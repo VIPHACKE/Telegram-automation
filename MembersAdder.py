@@ -28,8 +28,8 @@ from telethon.tl.types import InputPeerEmpty, InputPeerChannel, InputPeerUser
 
 # -------------------- USER CONFIG --------------------
 api_id = 24509726
-api_hash = 'a09cb4db3861dcbba941ba96620737d5'
-phone = '+916378941259'
+api_hash = 'abcdefghijklmnopqrstuvwxyz123456'  # Replace with your API hash
+phone = '+12345678900'  # Replace with your phone number (with country code)
 
 INPUT_PATH = r"D:\MembersTG\Members"
 
